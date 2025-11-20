@@ -2,3 +2,4 @@ g4f
 PyQt5
 markdown2
 PyQtWebEngine
+QtAwesome
